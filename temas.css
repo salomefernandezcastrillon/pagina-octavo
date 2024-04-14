@@ -1,7 +1,7 @@
 .contenedor{
 
 width: 100%;
-height: 1200px;
+height: 2000px;
 background-color: blueviolet;
 display: flex;
 flex-direction: column;
@@ -29,7 +29,7 @@ text-align: center;
 
 .ingles{
     width: 100%;
-    height: 450px;
+    height: 3000px;
     background-color: rgb(182, 172, 32);
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 
@@ -37,7 +37,7 @@ text-align: center;
 
 .tecnologia{
     width: 100%;
-    height: 600px;
+    height: 800px;
     background-color: rgb(226, 65, 127);
 font-size: 20px;
 color: black;
@@ -54,7 +54,7 @@ font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 
 .quimica{
     width: 100%;
-    height: 2200px;
+    height: 3500px;
     background-color: rgb(223, 119, 50);
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 20px;
