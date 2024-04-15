@@ -21,7 +21,7 @@ text-align: center;
 
 .matematicas{
     width: 100%;
-    height: 600pxpx;
+    height: 6000pxpx;
     background-color: rgb(0, 255, 157);
     font-size: 20px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
@@ -29,7 +29,7 @@ text-align: center;
 
 .ingles{
     width: 100%;
-    height: 3000px;
+    height: 6000px;
     background-color: rgb(182, 172, 32);
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 
@@ -37,7 +37,7 @@ text-align: center;
 
 .tecnologia{
     width: 100%;
-    height: 800px;
+    height: 6000px;
     background-color: rgb(226, 65, 127);
 font-size: 20px;
 color: black;
@@ -54,7 +54,7 @@ font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 
 .quimica{
     width: 100%;
-    height: 3500px;
+    height: 6000px;
     background-color: rgb(223, 119, 50);
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 20px;
