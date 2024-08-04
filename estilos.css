@@ -2,7 +2,7 @@
 
 .texto{
    
-    font-size: 50px;
+    font-size: 40px;
     padding-top: 140px;
     text-align: justify;
     color: rgb(20, 20, 20);
@@ -12,7 +12,25 @@
      
 }
 body{
-    background-image: url("fondo.jpg");
-    background-repeat: no-repeat;
-
+    background-image: url("fondos.jpg");
+   
 }
+.titulo{
+font-size: 60px;
+color: black;
+text-align: center;
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.img1{
+height: 300px;    
+width: 350px;
+background-image: url("circuito.jpeg")
+}
+
+.img2{
+height: 300px;
+width: 400px;    
+background-image: url("circuitos.jpeg")
+}
+
