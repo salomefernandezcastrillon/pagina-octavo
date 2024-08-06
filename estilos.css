@@ -39,3 +39,60 @@ height: 600px;
 width: 600px; 
 background-image: url("ciclo\ menstrual.jpeg");
 }
+
+.img4{
+  height: 600px;  
+  width: 700px;
+  background-image:  url("trastornos\ alimenticios.jpeg");
+}
+
+.img5{
+height: 230px;
+width: 200px;
+background-image: url("anorexia.jpeg"); 
+
+
+}
+
+.img6{
+height: 300px;
+width: 500px;
+background-image: url("DIBUJO\ ANOREXIA.JPEG");    
+}
+
+.img7{
+ height: 180px;
+ width: 250px;
+ background-image: url("bulimia.jpeg");   
+}
+
+.img8{
+height: 180px;
+width: 250px;
+background-image: url("dibujos\ bulimia.jpeg");    
+}
+
+.img9{
+height: 500px;
+width: 500px;
+background-image: url("alimentarse\ saludable.jpeg");    
+}
+
+.img10{
+height: 600px;
+width: 600px;
+background-image: url("actividad\ fisica.jpeg");    
+}
+
+.img11{
+height: 500px;
+width: 600px;
+background-image: url("dormir.jpeg");    
+}
+
+.img12{
+height: 200px;
+width: 250px;
+background-image: url("regular.jpeg");    
+}
+
